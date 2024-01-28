@@ -2,7 +2,7 @@
 - 👀 I’m interested in building python projects as well as cloud projects.
 - 🌱 I’m currently learning Python, Azure and SQL (MySQL)
 - 💞️ I’m looking to collaborate on OpenSource projects as well as personal ones.
-- 📫 You can reach me via email at codewithjustin@yahoo.com
+- 📫 You can reach me via email at codewithjustin@yahoo.com and sando@justinkollie.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
